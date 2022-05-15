@@ -1,0 +1,9 @@
+/.idea/
+/Logs/
+/obj/
+/Library/
+/UserSettings/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+New Unity Project.sln
